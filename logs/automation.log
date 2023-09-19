@@ -188,3 +188,78 @@
 17:27:48.899 [main] INFO  tests.LoginTest - Entering email id
 17:27:49.091 [main] INFO  tests.LoginTest - Entering pw
 17:27:49.259 [main] INFO  tests.LoginTest - Clicking on login button
+12:26:21.218 [main] INFO  tests.RegisterTest - registration process
+12:26:24.423 [main] INFO  tests.RegisterTest - Clicked on register button
+12:26:24.495 [main] INFO  tests.RegisterTest - selecting gender
+12:26:25.057 [main] INFO  tests.RegisterTest - entering first name
+12:26:25.793 [main] INFO  tests.RegisterTest - entering last name
+12:26:26.604 [main] INFO  tests.RegisterTest - entering email id
+12:26:26.943 [main] INFO  tests.RegisterTest - entering company name
+12:26:27.272 [main] INFO  tests.RegisterTest - selecting date of birth
+12:26:28.680 [main] INFO  tests.RegisterTest - entering pw
+12:26:28.981 [main] INFO  tests.RegisterTest - entwring pw again to confirm pw
+12:26:29.203 [main] INFO  tests.RegisterTest - clicking on register btn
+12:26:44.279 [main] INFO  tests.LoginTest - Clicking on ogin button
+12:26:45.520 [main] INFO  tests.LoginTest - Entering email id
+12:26:45.788 [main] INFO  tests.LoginTest - Entering pw
+12:26:46.000 [main] INFO  tests.LoginTest - Clicking on login button
+12:31:06.316 [main] INFO  tests.RegisterTest - registration process
+12:31:08.498 [main] INFO  tests.RegisterTest - Clicked on register button
+12:31:08.508 [main] INFO  tests.RegisterTest - selecting gender
+12:31:08.750 [main] INFO  tests.RegisterTest - entering first name
+12:31:09.182 [main] INFO  tests.RegisterTest - entering last name
+12:31:09.499 [main] INFO  tests.RegisterTest - entering email id
+12:31:09.846 [main] INFO  tests.RegisterTest - entering company name
+12:31:10.327 [main] INFO  tests.RegisterTest - selecting date of birth
+12:31:12.115 [main] INFO  tests.RegisterTest - entering pw
+12:31:12.371 [main] INFO  tests.RegisterTest - entwring pw again to confirm pw
+12:31:12.662 [main] INFO  tests.RegisterTest - clicking on register btn
+12:31:39.720 [main] INFO  tests.LoginTest - Clicking on ogin button
+12:31:41.070 [main] INFO  tests.LoginTest - Entering email id
+12:31:41.440 [main] INFO  tests.LoginTest - Entering pw
+12:31:41.734 [main] INFO  tests.LoginTest - Clicking on login button
+10:23:11.267 [main] INFO  tests.RegisterTest - registration process
+10:23:14.170 [main] INFO  tests.RegisterTest - Clicked on register button
+10:23:14.282 [main] INFO  tests.RegisterTest - selecting gender
+10:23:14.833 [main] INFO  tests.RegisterTest - entering first name
+10:23:15.733 [main] INFO  tests.RegisterTest - entering last name
+10:23:16.488 [main] INFO  tests.RegisterTest - entering email id
+10:23:17.120 [main] INFO  tests.RegisterTest - entering company name
+10:23:17.618 [main] INFO  tests.RegisterTest - selecting date of birth
+10:23:18.934 [main] INFO  tests.RegisterTest - entering pw
+10:23:19.151 [main] INFO  tests.RegisterTest - entwring pw again to confirm pw
+10:23:19.432 [main] INFO  tests.RegisterTest - clicking on register btn
+10:23:40.784 [main] INFO  tests.LoginTest - Clicking on ogin button
+10:23:42.108 [main] INFO  tests.LoginTest - Entering email id
+10:23:42.433 [main] INFO  tests.LoginTest - Entering pw
+10:23:42.623 [main] INFO  tests.LoginTest - Clicking on login button
+10:36:00.960 [main] INFO  tests.RegisterTest - registration process
+10:36:03.112 [main] INFO  tests.RegisterTest - Clicked on register button
+10:36:03.138 [main] INFO  tests.RegisterTest - selecting gender
+10:36:03.492 [main] INFO  tests.RegisterTest - entering first name
+10:36:03.837 [main] INFO  tests.RegisterTest - entering last name
+10:36:04.049 [main] INFO  tests.RegisterTest - entering email id
+10:36:04.453 [main] INFO  tests.RegisterTest - entering company name
+10:36:04.825 [main] INFO  tests.RegisterTest - selecting date of birth
+10:36:05.898 [main] INFO  tests.RegisterTest - entering pw
+10:36:06.187 [main] INFO  tests.RegisterTest - entwring pw again to confirm pw
+10:36:06.508 [main] INFO  tests.RegisterTest - clicking on register btn
+10:36:24.777 [main] INFO  tests.LoginTest - Clicking on ogin button
+10:36:26.552 [main] INFO  tests.LoginTest - Entering email id
+10:36:26.793 [main] INFO  tests.LoginTest - Entering pw
+10:36:27.007 [main] INFO  tests.LoginTest - Clicking on login button
+10:38:50.815 [main] INFO  tests.RegisterTest - registration process
+10:38:53.605 [main] INFO  tests.RegisterTest - Clicked on register button
+10:38:53.622 [main] INFO  tests.RegisterTest - selecting gender
+10:38:53.927 [main] INFO  tests.RegisterTest - entering first name
+10:38:54.304 [main] INFO  tests.RegisterTest - entering last name
+10:38:54.658 [main] INFO  tests.RegisterTest - entering email id
+10:38:55.053 [main] INFO  tests.RegisterTest - entering company name
+10:38:55.304 [main] INFO  tests.RegisterTest - selecting date of birth
+10:38:56.891 [main] INFO  tests.RegisterTest - entering pw
+10:38:57.789 [main] INFO  tests.RegisterTest - entwring pw again to confirm pw
+10:38:58.117 [main] INFO  tests.RegisterTest - clicking on register btn
+10:39:31.146 [main] INFO  tests.LoginTest - Clicking on ogin button
+10:39:33.684 [main] INFO  tests.LoginTest - Entering email id
+10:39:34.404 [main] INFO  tests.LoginTest - Entering pw
+10:39:34.895 [main] INFO  tests.LoginTest - Clicking on login button

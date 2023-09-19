@@ -4,7 +4,7 @@
   <artifactId>PracticeFramework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <build>
+ <build>
 <pluginManagement>
 <plugins>
 <plugin>
@@ -27,6 +27,20 @@
 </build>
 
   <dependencies>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-java</artifactId>
+    <version>7.13.0</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-junit</artifactId>
+    <version>7.13.0</version>
+    <scope>test</scope>
+</dependency>
 
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>

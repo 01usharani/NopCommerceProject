@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-16T17:17:01 IST" name="Suite" finished-at="2023-08-16T17:17:38 IST" duration-ms="37092">
+  <suite started-at="2023-09-19T10:22:31 IST" name="Suite" finished-at="2023-09-19T10:23:45 IST" duration-ms="73674">
     <groups>
     </groups>
-    <test started-at="2023-08-16T17:17:01 IST" name="Test" finished-at="2023-08-16T17:17:38 IST" duration-ms="37092">
+    <test started-at="2023-09-19T10:22:31 IST" name="Test" finished-at="2023-09-19T10:23:45 IST" duration-ms="73674">
       <class name="tests.LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.LoginTest@130c12b7]" started-at="2023-08-16T17:17:24 IST" name="setup" finished-at="2023-08-16T17:17:34 IST" duration-ms="10709" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.LoginTest@52719fb6]" started-at="2023-09-19T10:23:25 IST" name="setup" finished-at="2023-09-19T10:23:40 IST" duration-ms="15690" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Loginmethod()[pri:0, instance:tests.LoginTest@130c12b7]" started-at="2023-08-16T17:17:34 IST" name="Loginmethod" finished-at="2023-08-16T17:17:38 IST" duration-ms="3357" status="PASS">
+        <test-method signature="Loginmethod()[pri:0, instance:tests.LoginTest@52719fb6]" started-at="2023-09-19T10:23:40 IST" name="Loginmethod" finished-at="2023-09-19T10:23:43 IST" duration-ms="3188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Loginmethod -->
-        <test-method is-config="true" signature="close()[pri:0, instance:tests.LoginTest@130c12b7]" started-at="2023-08-16T17:17:38 IST" name="close" finished-at="2023-08-16T17:17:38 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.LoginTest@52719fb6]" started-at="2023-09-19T10:23:43 IST" name="close" finished-at="2023-09-19T10:23:45 IST" duration-ms="1272" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- tests.LoginTest -->
       <class name="tests.RegisterTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.RegisterTest@3f6f6701]" started-at="2023-08-16T17:17:01 IST" name="setup" finished-at="2023-08-16T17:17:17 IST" duration-ms="16257" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.RegisterTest@5d534f5d]" started-at="2023-09-19T10:22:32 IST" name="setup" finished-at="2023-09-19T10:23:11 IST" duration-ms="38478" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,11 +39,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="register()[pri:0, instance:tests.RegisterTest@3f6f6701]" started-at="2023-08-16T17:17:17 IST" name="register" finished-at="2023-08-16T17:17:24 IST" duration-ms="6311" status="PASS">
+        <test-method signature="register()[pri:0, instance:tests.RegisterTest@5d534f5d]" started-at="2023-09-19T10:23:11 IST" name="register" finished-at="2023-09-19T10:23:22 IST" duration-ms="11323" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method is-config="true" signature="close()[pri:0, instance:tests.RegisterTest@3f6f6701]" started-at="2023-08-16T17:17:24 IST" name="close" finished-at="2023-08-16T17:17:24 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.RegisterTest@5d534f5d]" started-at="2023-09-19T10:23:22 IST" name="close" finished-at="2023-09-19T10:23:25 IST" duration-ms="2491" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
